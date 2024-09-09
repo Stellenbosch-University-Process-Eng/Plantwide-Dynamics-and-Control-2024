@@ -1,2 +1,5 @@
 slprj/
 *.slxc
+*.autosave
+*.asv
+*.zip
